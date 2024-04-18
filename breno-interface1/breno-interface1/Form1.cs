@@ -1,8 +1,8 @@
 namespace breno_interface1
 {
-    public partial class Form1 : Form
+    public partial class FormTitre : Form
     {
-        public Form1()
+        public FormTitre()
         {
             InitializeComponent();
         }
