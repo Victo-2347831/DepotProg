@@ -1,4 +1,4 @@
-namespace breno_interface1
+namespace Interface2
 {
     internal static class Program
     {
@@ -11,7 +11,7 @@ namespace breno_interface1
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new FormTitre());
+            Application.Run(new Form1());
         }
     }
 }
